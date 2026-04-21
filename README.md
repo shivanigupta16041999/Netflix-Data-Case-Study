@@ -14,21 +14,21 @@ This project presents an interactive Power BI dashboard built using the Netflix 
 - Microsoft Excel (Data Cleaning & Preparation)
 
 🔹 Key Features of Dashboard
--📌 Content distribution by Movies vs TV Shows
--🌍 Analysis of content by country
--📅 Trend analysis of content added over years
--🎭 Genre-wise distribution of content
--🔞 Rating classification insights
--⏱ Duration analysis (Movies vs TV Shows)
+- 📌 Content distribution by Movies vs TV Shows
+- 🌍 Analysis of content by country
+- 📅 Trend analysis of content added over years
+- 🎭 Genre-wise distribution of content
+- 🔞 Rating classification insights
+- ⏱ Duration analysis (Movies vs TV Shows)
 
 🔹 Key Insights
 - Movies dominate the Netflix content library compared to TV Shows
 - Significant growth in content addition after 2015
 - United States contributes the highest content share
- - Popular genres include Drama, Comedy, and International content
+- Popular genres include Drama, Comedy, and International content
 
 🔹 Project Objective
-To transform raw data into meaningful insights using interactive visuals and storytelling, demonstrating strong data analysis and business intelligence skills.
+ To transform raw data into meaningful insights using interactive visuals and storytelling, demonstrating strong data analysis and business intelligence skills.
 
 🔹 Learnings
 - Data cleaning and transformation in Excel
